@@ -9,3 +9,6 @@ Banzai CMS is a small and efficient CMS and Web framework written in Rust.
 # Add the current version to your Cargo.toml
 cargo add banzai-cms
 ```
+
+
+Stay tuned for more information!
